@@ -1,2 +1,2 @@
-# CI-MobilePicture-Upload-Auto-Roate
-Image upload with EXIF auto corrent rotation library for codeigniter 2.0+
+# CI Mobile picture upload
+Image upload with EXIF auto correct rotation library for codeigniter 2.0+
